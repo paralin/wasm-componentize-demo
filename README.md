@@ -2,6 +2,8 @@
 
 This repo demonstrates how to use ComponentizeJS to create and use WebAssembly components from JavaScript.
 
+This implementation is based on the [ComponentizeJS example](https://github.com/bytecodealliance/ComponentizeJS/blob/main/EXAMPLE.md).
+
 ## Setup
 
 ```bash
